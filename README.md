@@ -35,8 +35,8 @@ Task about an exploratory data analysis (EDA) to uncover insights and summarize 
     pip install -r requirements.txt
     ```
 
-8. Run the parser script:
+8. Run the script via Jupyter Notebook:
 
     ```bash
-    python EDA_task.py
+    EDA_task.ipynb
     ```
